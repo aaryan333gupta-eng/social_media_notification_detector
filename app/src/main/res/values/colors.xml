@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6D5EF5</color>
+    <color name="purple_700">#4F46E5</color>
+    <color name="purple_200">#EDE9FE</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="launcher_background">#173F3A</color>
+    <color name="launcher_accent">#F58A62</color>
+    <color name="launcher_paper">#FFFDF7</color>
+</resources>

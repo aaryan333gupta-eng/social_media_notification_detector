@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Social Digest</string>
+    <string name="notification_listener_label">Social Digest notification access</string>
+</resources>
